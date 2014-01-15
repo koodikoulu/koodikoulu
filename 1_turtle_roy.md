@@ -12,7 +12,7 @@ Koodataan!
 
 - Hiukan Turtle-grafiikkaa
 
-    fd 100 lt 90 rt 90
+ fd 100 lt 90 rt 90
 
 - Lista
 
