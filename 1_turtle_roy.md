@@ -13,13 +13,12 @@ Koodataan!
 - Hiukan Turtle-grafiikkaa
 
 ```
-fd 100 lt 90 rt 90
-```
-
-- Lista
-
-```
-    [1,2,3]
+    clear
+    fd 100
+    lt 90
+    fd 100
+    rt 90
+    fd 20
 ```
 
 - Sekvenssi, eli tehdään asioita peräkkäin
@@ -37,11 +36,14 @@ fd 100 lt 90 rt 90
 - Funktiot, eli opetetaan tietokoneelle juttuja
 
 ```
-    let askel = s [fd 100, lt 90] let neliö = r 4 askel neliö
+    let askel = s [fd 100, lt 90] 
+    let neliö = r 4 askel neliö
 ```
 
 - Parametrisoidut funktiot, eli tehdään samalla koodilla eri näköisiä juttuja
 
 ```
-    let ympyra sade = repeat 45 (s [fd sade, lt 8]) ympyra 2 ympyra 4
+    let ympyra sade = repeat 45 (s [fd sade, lt 8]) 
+    ympyra 2 
+    ympyra 4
 ```
