@@ -40,10 +40,17 @@ let askel = s [fd 100, lt 90]
 let neliö = r 4 askel neliö
 ```
 
-- Parametrisoidut funktiot, eli tehdään samalla koodilla eri näköisiä juttuja
+- Parametrisoidut funktiot, eli tehdään samalla koodilla eri kokoisia juttuja
 
 ```
 let ympyra sade = repeat 45 (s [fd sade, lt 8]) 
 ympyra 2 
 ympyra 4
+```
+
+- Rekursiiviset funktiot, eli itseään kutsuvat funktiot
+
+```
+let spiral x = if x == 0 then fd 0 else s [fd x/10, rt 10, spiral (x - 1)]
+spiral 100
 ```
