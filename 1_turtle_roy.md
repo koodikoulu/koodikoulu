@@ -1,10 +1,3 @@
-Intro
------
-
-1.  Tietokone - mitä osia kuuluu?
-2.  Tiedosto, mikä se on?
-3.  Ohjelma, mikä se on?
-
 Koodataan!
 ----------
 
