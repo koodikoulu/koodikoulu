@@ -1,7 +1,9 @@
-Koodataan!
-----------
+## Intro
 
-- Turtle Roy : [http://turtle-roy.herokuapp.com/](http://turtle-roy.herokuapp.com/) (API yms githubissa: [https://github.com/raimohanska/turtle-roy](https://github.com/raimohanska/turtle-roy))
+- Turtle Roy : [http://turtle-roy.herokuapp.com/](http://turtle-roy.herokuapp.com/)
+- Ohjeita (englanniksi) Githubissa: [https://github.com/raimohanska/turtle-roy](https://github.com/raimohanska/turtle-roy))
+
+## Koodataan!
 
 - Hiukan Turtle-grafiikkaa
 
