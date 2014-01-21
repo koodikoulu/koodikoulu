@@ -49,3 +49,12 @@ ympyra 4
 let spiral x = if x == 0 then fd 0 else s [fd x/10, rt 10, spiral (x - 1)]
 spiral 100
 ```
+
+## Vinkkejä
+
+- `clear` tyhjentää ruudun ja palauttaa konnan keskelle
+- `nuoli ylös`
+ - pääset tekemään edellisen jutun uudestaan
+ - voit myös muokata komentoriviä liikkumalla sivunuolilla ja lisäämällä ja poistamalla tekstiä
+- `ctrl-e` menee rivin loppuun
+- `ctrl-a` menee rivin alkuun
