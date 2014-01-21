@@ -6,10 +6,10 @@ Täältä Githubista löytyy materiaalia koodikoululaisille ja koodikoulun opett
 
 - [Ensimmäinen tunti: Turtle Roy](https://github.com/koodikoulu/koodikoulu/blob/master/1_turtle_roy.md)
 
-Helppo tapa tutustua koodauksen alkeisiin on [Code.org](http://code.org/learn), mistä löytyy esimerkiksi 1:n tunnin interaktiivinen [koodaustunti](http://learn.code.org/hoc/1), joka on saatavilla myös suomeksi. Sivun vasemmasta alanurkasta voit valita kieleksi suomen.
+Lisäksi kannatta ehdottomasti tutustua yhdysvaltalaisen Code.org -sivuston [Learn-sivuun](http://code.org/learn), jolta löytyy useita hienosti viimeisteltyjä interaktiivisia oppitunteja. Näistä ainakin ensimmäisessä on mahdollista valita kieleksi myös suomi.
+
+Voit tutustua Milan koodausseikkailuihin englanninkielisessä blogissani [Girls Can't Code](http://girlscantcode.blogspot.fi/).
 
 Terveisin,
 
-Juha Paananen "koodikoulun rehtori" ja Milan isi
-
-P.S. Voit tutustua Milan koodausseikkailuihin blogissani [Girls Can't Code](http://girlscantcode.blogspot.fi/)
+*Juha Paananen "koodikoulun rehtori" ja Milan isi*
