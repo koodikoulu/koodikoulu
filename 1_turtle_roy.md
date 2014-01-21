@@ -66,4 +66,4 @@ spiral 100
 - Työn lataus
  - `login "petteri"`
  - `ls`
- - `save "häkkyrä"`
+ - `open "häkkyrä"`
