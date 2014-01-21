@@ -58,3 +58,11 @@ spiral 100
  - voit myös muokata komentoriviä liikkumalla sivunuolilla ja lisäämällä ja poistamalla tekstiä
 - `ctrl-e` menee rivin loppuun
 - `ctrl-a` menee rivin alkuun
+- "show editor" -linkistä pääsee muokkaamaan koko ohjelmaa. "run" suorittaa sen alusta.
+- Työn tallennus
+ - `login "petteri"`
+ - `save "häkkyrä"`
+- Työn lataus
+ - `login "petteri"`
+ - `ls`
+ - `save "häkkyrä"`
