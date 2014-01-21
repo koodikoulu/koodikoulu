@@ -53,7 +53,7 @@ spiral 100
 ## Vinkkejä
 
 - `clear` tyhjentää ruudun ja palauttaa konnan keskelle
-- `nuoli ylös`
+- ` ↑ ` (nuoli ylös)
  - pääset tekemään edellisen jutun uudestaan
  - voit myös muokata komentoriviä liikkumalla sivunuolilla ja lisäämällä ja poistamalla tekstiä
 - `ctrl-e` menee rivin loppuun
