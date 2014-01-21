@@ -12,4 +12,4 @@ Voit tutustua Milan koodausseikkailuihin englanninkielisessä blogissani [Girls 
 
 Terveisin,
 
-*Juha Paananen "koodikoulun rehtori" ja Milan isi*
+*Juha Paananen - "koodikoulun rehtori" ja Milan isi*
