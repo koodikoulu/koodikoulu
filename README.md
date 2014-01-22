@@ -4,7 +4,7 @@ Tutustu [koodikouluun](http://koodikoulu.fi)!
 
 Täältä Githubista löytyy materiaalia koodikoululaisille ja koodikoulun opettajille opetuksen tueksi. Materiaali on viimeistelemätöntä, ja siksipä kannustan sinua osallistumaan sen kehitykseen.
 
-- [Ensimmäinen tunti: Turtle Roy](https://github.com/koodikoulu/koodikoulu/blob/master/1_turtle_roy.md)
+- [Ensimmäinen tunti: Turtle Roy](https://github.com/koodikoulu/koodikoulu/blob/master/1_turtle_roy.md) (myös [opettajille](https://github.com/koodikoulu/koodikoulu/blob/master/1_turtle_roy_ope.md))
 
 Lisäksi kannattaa tutustua 
 
