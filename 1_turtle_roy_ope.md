@@ -16,7 +16,6 @@ Käytännössä on toimittu näin:
 
 ### Esittelyosuuden runko
 
-
 #### Intro
 
 - kiitokset ja tervetuloa
@@ -27,28 +26,33 @@ Käytännössä on toimittu näin:
 - mutta
   - täällä ei vielä opi koodaamaan kuin ihan vähän
   - harjoitus tekee mestarin
-- jos koodataan yhdessä vanhemman kanssa
-  - on hauskaa
+- kannattaa koodata kotona yhdessä vanhemman kanssa
+  - se on hauskaa
   - yhteinen harrastus
-  - oppii paljon muutakin kuin koodausta
+  - oppii paljon muutakin kuin koodausta (esim. lukeminen, kirjoittaminen, tietokonetaidot, matematiikka...)
 
 #### Mitä on koodaaminen
 
 - koulu: moniko on koulussa? hys hys ja viitataan (aluksi!)
-- kuka koodannut? 
-- kuka rakentanut legoilla? (koodaaminen on rakentamista!)
+- kuka koodannut? -> yleensä ei kukaan
+- kuka rakentanut legoilla? -> yleensä kaikki 
+- koodaaminen on rakentamista! tehdään pieniä juttuja, joista tehdään isompia juttuja
+- voi rakentaa omia maailmoja ja pelejä joissa on omat säännöt
+- on myös mielenkiintoinen työ aikuisena
+- on hyödyllistä vaikke rupeisikaan koodariksi
 
 #### Mitä on koodi
 
 - mitä osia on tietokoneessa? (-> hauskoja vastauksia)
-  - prosessori suorittaa käskyjä
-   - lukee muistista ohjelmaa jossa on käskyjä
-   - koodi on ohjelma
+- prosessori suorittaa käskyjä
+ - lukee muistista ohjelmaa jossa on käskyjä
+ - koodi on ohjelma
 - koodaus on ohjelmien tekemistä, pienistä paloista iso ohjelma
-- sitten ope näyttää miten koodataan!
 
 #### Turtle Roy
 
+- sitten ope näyttää miten koodataan!
 - käydään esimerkkejä läpi
+- tehdään myös virheitä ja hassuja juttuja (kilpikonna karkaa ruudulta!)
 - Sitten vaan itse koodaamaan esimerkkejä ja omia juttuja!
 - [koodikoulun sivu](https://github.com/koodikoulu/koodikoulu) on hyvä aloitussivu oppilaille!
