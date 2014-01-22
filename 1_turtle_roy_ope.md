@@ -11,7 +11,7 @@ Käytännössä on toimittu näin:
 - kaikilla www-selain, jossa [Turtle Roy](http://turtle-roy.herokuapp.com/) toimii. Chrome on varma valinta.
 - mehua ja pientä purtavaa, jos on tarvetta
 - tunnin alussa noin 15 minuutin esittelyosuus, jonka jälkeen koodataan
-- koodausosuus omaan vapaaseen tahtiin, välilä taukoja, myös omaan tahtiin
+- koodausosuus omaan vapaaseen tahtiin, välilä taukoja omaan tahtiin
 - koodausosuus kestää niin kauan kuin oppilaat jaksavat. Pois voi lähteä omaan tahtiin. Käytännössä oppilaat ovat jaksaneet 1-2 tuntia
 
 ### Esittelyosuuden runko
