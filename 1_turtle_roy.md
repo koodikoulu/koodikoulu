@@ -51,6 +51,38 @@ let spiral x = if x == 0 then fd 0 else s [fd x/10, rt 10, spiral (x - 1)]
 spiral 100
 ```
 
+## Jatkoharjoitus: funktioiden yhdisteleminen
+
+- Äänien soittaminen peräkkäin eli melodia
+
+```
+let soitamonta xs = if (empty xs) then [] else s [play (head xs), soitamonta (tail xs)]
+soitamonta [c, d, e, f, g, a, h, c*2]
+```
+
+- Äänen pituus eli nopea melodia
+
+```
+let soitamonta xs pituus = if (empty xs) then [] else s [play (head xs) pituus, soitamonta (tail xs) pituus]
+soitamonta [c, d, e, f, g, a, h, c*2] 100
+```
+
+- Tee kiemuroista kukka
+
+```
+let kiemura x = if x == 0 then fd 0 else s [fd x/10, rt 10, kiemura (x - 1)]
+let kukka = r 6 (kiemura 102)
+kukka
+```
+
+- Tee monesta äänestä sävelmä. Soita sävelmä ja piirrä kukka yhtäaikaa.
+
+```
+let tuiki = soitamonta [c, c, g, g, a, a, g, g, f, f, e, e, d, d, c] 150
+par [kukka, tuiki]
+```
+
+
 ## Vinkkejä
 
 - `clear` tyhjentää ruudun ja palauttaa konnan keskelle
