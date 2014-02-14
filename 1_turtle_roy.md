@@ -74,6 +74,7 @@ kukka
 par [kukka, tuiki 160]
 ```
 
+- Lataa jatkoharjoituksen koodit valmiina: [http://turtle-roy.herokuapp.com/?turtle=LE1BOI519Z](http://turtle-roy.herokuapp.com/?turtle=LE1BOI519Z)
 
 ## Vinkkejä
 
