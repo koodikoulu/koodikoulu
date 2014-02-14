@@ -53,18 +53,11 @@ spiral 100
 
 ## Jatkoharjoitus: funktioiden yhdisteleminen
 
-- Äänien soittaminen peräkkäin eli melodia
+- Äänien soittaminen peräkkäin eli melodia. Kokeile soittonopeuden (500) muuttamista pienemmäksi!
 
 ```
-let soitamonta xs = if (empty xs) then [] else s [play (head xs), soitamonta (tail xs)]
-soitamonta [c, d, e, f, g, a, h, c*2]
-```
-
-- Äänen pituus eli nopea melodia
-
-```
-let soitamonta xs pituus = if (empty xs) then [] else s [play (head xs) pituus, soitamonta (tail xs) pituus]
-soitamonta [c, d, e, f, g, a, h, c*2] 100
+let tuiki nopeus = play [c, c, g, g, a, a, g, g, f, f, e, e, d, d, c] nopeus
+tuiki 500
 ```
 
 - Tee kiemuroista kukka
@@ -75,11 +68,10 @@ let kukka = r 6 (kiemura 102)
 kukka
 ```
 
-- Tee monesta äänestä sävelmä. Soita sävelmä ja piirrä kukka yhtäaikaa.
+- Soita melodia ja piirrä kukka yhtäaikaa.
 
 ```
-let tuiki = soitamonta [c, c, g, g, a, a, g, g, f, f, e, e, d, d, c] 150
-par [kukka, tuiki]
+par [kukka, tuiki 160]
 ```
 
 
