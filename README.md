@@ -1,6 +1,6 @@
 ## Koodikoulu -opetusmateriaalit
 
-Tutustu [koodikouluun](http://koodikoulu.fi)!
+Tutustu Koodikouluun sivustolla [koodikoulu.fi](http://koodikoulu.fi)!
 
 Täältä Githubista löytyy materiaalia koodikoululaisille ja koodikoulun opettajille opetuksen tueksi. Materiaali on viimeistelemätöntä, ja siksipä kannustan sinua osallistumaan sen kehitykseen.
 
@@ -16,7 +16,7 @@ Lisäksi kannattaa tutustua
 
 
 
-Voit tutustua Milan koodausseikkailuihin englanninkielisessä blogissani [Girls Can't Code](http://girlscantcode.blogspot.fi/).
+Voit tutustua Milan koodausseikkailuihin englanninkielisessä blogissani [Girls Can't Code](http://girlscantcode.blogspot.fi/). Tsekkaa myös hauska [Koodikoulu-video](http://vimeo.com/86706312) Vimeossa.
 
 Terveisin,
 
