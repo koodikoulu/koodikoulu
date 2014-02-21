@@ -24,6 +24,6 @@ Terveisin,
 
 - - -
 
-![CC BY-SA 4.0](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+![CC BY-SA 4.0](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 Tämä materiaali on lisensoitu [Creative Commons Nimeä-Jaa samoin 4.0 Kansainvälinen -lisenssillä](http://creativecommons.org/licenses/by-sa/4.0/deed.fi).
