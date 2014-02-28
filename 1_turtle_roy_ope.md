@@ -56,3 +56,7 @@ Käytännössä on toimittu näin:
 - tehdään myös virheitä ja hassuja juttuja (kilpikonna karkaa ruudulta!)
 - Sitten vaan itse koodaamaan esimerkkejä ja omia juttuja!
 - [koodikoulun sivu](https://github.com/koodikoulu/koodikoulu) on hyvä aloitussivu oppilaille!
+ 
+### Vinkkejä ja lisäideoita
+
+- Kokemuksia ja vinkkejä Vincitin ensimmäisen Koodikoulun pohjalta [täältä](https://bitbucket.org/vincit/koodikoulu)
