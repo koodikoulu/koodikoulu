@@ -11,7 +11,7 @@ Täältä Githubista löytyy materiaalia koodikoululaisille ja koodikoulun opett
 
 Lisäksi kannattaa tutustua 
 
-- Yhdysvaltalaisen Code.org -sivuston [Learn-sivuun](http://code.org/learn), jolta löytyy useita hienosti viimeisteltyjä interaktiivisia oppitunteja. Näistä ainakin ensimmäisessä on mahdollista valita kieleksi myös suomi.
+- Yhdysvaltalaisen Code.org -sivuston [Learn-sivuun](http://code.org/learn), jolta löytyy useita hienosti viimeisteltyjä interaktiivisia oppitunteja. Näistä ainakin ensimmäisessä on mahdollista valita kieleksi myös suomi. Myös suomenkieliseltä [koodaustunti.fi](http://koodaustunti.fi/) -sivustolta löytyy linkkejä.
 - MIT-yliopiston [Scratch](http://scratch.mit.edu/)-oppimisympäristöön
 
 
