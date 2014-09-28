@@ -3,6 +3,13 @@
 - Turtle Roy : [http://turtle-roy.herokuapp.com/](http://turtle-roy.herokuapp.com/)
 - Ohjeita (englanniksi) Githubissa: [https://github.com/raimohanska/turtle-roy](https://github.com/raimohanska/turtle-roy))
 
+## Harjoitellaan ilman tietokonetta
+
+- Opettaja on tietokone, jolle oppilaat antavat käskyjä.
+- Oppilaiden tehtävänä on liikuttaa opettaja huoneen toiseen nurkkaan (väistellen huonekaluja) käyttäen kolmea komentoa: "siirry eteenpäin", "käänny oikealle", "käänny vasemmalle".
+- Jos oppilaat sanovat minkä tahansa muun komennolla, esim. "liiku eteenpäin", opettaja vastaa: "En ymmärrä komentoa."
+- Tarkoituksena on auttaa oppilaita ymmärtämään, että tietokoneet tottelevat vain täsmällisiä komentoja. (Jos kilpikonnalle ei sano tarkasti oikeaa komentoa, hän vastaa punaisella tekstillä.)
+
 ## Koodataan!
 
 - Hiukan Turtle-grafiikkaa
