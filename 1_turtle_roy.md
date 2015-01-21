@@ -61,6 +61,7 @@ spiral 100
 ## Jatkoharjoitus: funktioiden yhdisteleminen
 
 - Äänien soittaminen peräkkäin eli melodia. Kokeile soittonopeuden (500) muuttamista pienemmäksi!
+- Huom! Toimii tällä hetkellä vain Chrome-selaimessa.
 
 ```
 let tuiki nopeus = play [c, c, g, g, a, a, g, g, f, f, e, e, d, d, c] nopeus
