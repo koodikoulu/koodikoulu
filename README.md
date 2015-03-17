@@ -11,9 +11,10 @@ Täältä Githubista löytyy materiaalia koodikoululaisille ja koodikoulun opett
 
 Lisäksi kannattaa tutustua 
 
+- [Koodikerho.fi](http://koodikerho.fi/) järjestää koodikerhoja kouluissa ja tarjoaa opetusmateriaaleja kerhojen pitäjille
+- [Koodikirja.fi](http://www.koodikirja.fi/) tarjoaa Koodikoulu-henkistä itseopiskelumateriaalia pikku koodareille
 - Yhdysvaltalaisen Code.org -sivuston [Learn-sivuun](http://code.org/learn), jolta löytyy useita hienosti viimeisteltyjä interaktiivisia oppitunteja. Näistä ainakin ensimmäisessä on mahdollista valita kieleksi myös suomi. Myös suomenkieliseltä [koodaustunti.fi](http://koodaustunti.fi/) -sivustolta löytyy linkkejä.
 - MIT-yliopiston [Scratch](http://scratch.mit.edu/)-oppimisympäristöön
-
 
 
 Voit tutustua Milan koodausseikkailuihin englanninkielisessä blogissani [Girls Can't Code](http://girlscantcode.blogspot.fi/). Tsekkaa myös hauska [Koodikoulu-video](http://vimeo.com/86706312) Vimeossa.
