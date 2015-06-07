@@ -15,6 +15,7 @@ Lisäksi kannattaa tutustua
 - [Koodikirja.fi](http://www.koodikirja.fi/) tarjoaa Koodikoulu-henkistä itseopiskelumateriaalia pikku koodareille
 - Yhdysvaltalaisen Code.org -sivuston [Learn-sivuun](http://code.org/learn), jolta löytyy useita hienosti viimeisteltyjä interaktiivisia oppitunteja. Näistä ainakin ensimmäisessä on mahdollista valita kieleksi myös suomi. Myös suomenkieliseltä [koodaustunti.fi](http://koodaustunti.fi/) -sivustolta löytyy linkkejä.
 - MIT-yliopiston [Scratch](http://scratch.mit.edu/)-oppimisympäristöön
+- Taulukko oppimisympäristöistä, eli ["Rehtorin lista"](https://docs.google.com/spreadsheets/d/1-yZ15CvQSVIC7KsQIVoYBQvugs_XPql8LMpgYnzJuGg/edit#gid=0)
 
 
 Voit tutustua Milan koodausseikkailuihin englanninkielisessä blogissani [Girls Can't Code](http://girlscantcode.blogspot.fi/). Tsekkaa myös hauska [Koodikoulu-video](http://vimeo.com/86706312) Vimeossa.
