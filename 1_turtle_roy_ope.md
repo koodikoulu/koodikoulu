@@ -22,7 +22,9 @@ Käytännössä on toimittu näin:
 - esittäytyminen
 - lyhyesti taustaa
 - tavoitteena oppia: mikä on tietokone, mitä sillä voi tehdä, mitä on koodaus
-- menetelmä: lyhyt intro ja sitten koodataan. vain koodaamalla oppii koodaamaan!
+- menetelmä
+  - lyhyt intro ja sitten koodataan. vain koodaamalla oppii koodaamaan!
+  - kaikki info tulee tässä alussa, koska sitten kun koodataan, niin kukaan ei malta enää kuunnella (koodaus on niin hauskaa)
 - mutta
   - täällä ei vielä opi koodaamaan kuin ihan vähän
   - harjoitus tekee mestarin
@@ -33,7 +35,6 @@ Käytännössä on toimittu näin:
 
 #### Mitä on koodaaminen
 
-- koulu: moniko on koulussa? hys hys ja viitataan (aluksi!)
 - kuka koodannut? -> yleensä ei kukaan
 - kuka rakentanut legoilla? -> yleensä kaikki 
 - koodaaminen on rakentamista! tehdään pieniä juttuja, joista tehdään isompia juttuja
@@ -48,6 +49,7 @@ Käytännössä on toimittu näin:
  - lukee muistista ohjelmaa jossa on käskyjä
  - koodi on ohjelma
 - koodaus on ohjelmien tekemistä, pienistä paloista iso ohjelma
+- kuinka monella on kännykkä? tiesitkö, että sielläkin on tietokone? myös autossa, telkkarissa, mikroaaltouunissa, pesukoneessa! koodi ohjaa nykyään kaikkia laitteita!
 
 #### Turtle Roy
 
