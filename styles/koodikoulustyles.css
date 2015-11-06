@@ -1,0 +1,193 @@
+body {
+    font-size: 16px;
+}
+
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    color: #484639;
+}
+
+h3 {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-bottom: 1em;
+}
+
+body, p, ul, li {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+p,
+li {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+p a {
+    font-weight: 500;
+    color: #333;
+}
+
+p a:hover {
+    color: #DE5462;
+    text-decoration: underline;
+}
+
+p, dt, dd, li {
+    line-height: 32px;
+}
+
+p,
+ul {
+    margin-bottom: 1em;
+}
+
+section {
+    padding-bottom: 40px;
+}
+
+section.jumbotron {
+    color: white;
+    margin-bottom: 0 !important;
+    min-height: 32vh;
+}
+
+section.muted {
+    background-color: #E9E9E9;
+}
+
+section.primary {
+    background-color: #fec772;
+}
+
+section.secondary {
+    background-color: #4C3750;
+}
+
+section.secondary h2 {
+    color: #fff;
+}
+
+section#feedback {
+    line-height: 0;
+    padding: 2em 0;
+}
+
+section#feedback a {
+    margin: 0 10px;
+}
+
+section#feedback a:focus,
+section#feedback a:hover {
+    text-decoration: none;
+}
+
+section#feedback a:hover svg circle,
+section#feedback a:focus svg circle {
+    fill: #fff;
+    transition: fill .4s ease;
+}
+
+section#feedback a:hover svg path,
+section#feedback a:focus svg path {
+    fill: #ffb440;
+    transition: fill .4s ease;
+}
+
+.start p {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.jumbotron #logo {
+    width: 490px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 2px;
+    color: #484639;
+    text-align: center;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    text-transform: none;
+
+    margin-top: 31px;
+    margin-bottom: 30px;
+}
+
+pre.inline {
+   display: inline;
+}
+
+.container {
+    overflow-x: hidden;
+}
+
+#footer {
+    min-height: 15vh;
+    background-color: #4C3750;
+    color: #FFFFFF;
+    padding-bottom: 0px;
+}
+
+#footer h2 {
+    font-size: 22px;
+}
+
+#footer img {
+  margin: 0 40px 100px 40px;
+}
+
+iframe.video {
+    height: 400px;
+    width: 90%;
+}
+
+@media (max-width: 992px) {
+    body {
+        font-size: 14px;
+    }
+
+    .jumbotron #logo {
+        width: 290px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    #footer img {
+        margin-bottom: 50px;
+    }
+
+    #footer h2,
+    h2 {
+        font-size: 18px;
+    }
+}
+
+/* Disable lg grid */
+
+@media (min-width:970px) {
+    .container {
+        width: 970px;
+    }
+}
