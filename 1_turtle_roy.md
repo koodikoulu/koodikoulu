@@ -50,6 +50,7 @@ let ympyra sade = repeat 45 (s [fd sade, lt 8])
 ympyra 2 
 ympyra 4
 ```
+- Osaisitko nyt tehdä funktion, jolla saisit erikokoisia neliöitä? Katso mallia ympyrän toteutuksesta. 
 
 - Rekursiiviset funktiot, eli itseään kutsuvat funktiot
 
